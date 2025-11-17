@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+  To populate topology data for command line package installation, refer to:
+    https://docs.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/deployment/install-deployable-package#collect-topology-configuration-data
+-->
+<TopologyData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>AX topology</Name>
+  <MachineList>
+    <Machine>
+      <Name>localhost</Name>
+      <ServiceModelList>
+        <string>AOSService</string>
+        <string>DevToolsService</string>
+      </ServiceModelList>
+    </Machine>
+  </MachineList>
+  <BackupScript>
+    <FileName />
+    <Automated>false</Automated>
+    <Description>Please backup your environment now, set this step to complete once you finished backup</Description>
+  </BackupScript>
+</TopologyData>

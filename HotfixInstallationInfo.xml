@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HotfixInstallationInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>9ab28bbc-0df7-4a43-a1aa-f964695cbdda</Name>
+  <Description>Deployable package created from visual studio</Description>
+  <InstallationDateTime>0001-01-01T00:00:00</InstallationDateTime>
+  <InstallationInfoFilePath>C:\Users\Admin98cd22bcbf\AppData\Local\Temp\tmpE3C0.tmp\HotfixInstallationInfo.xml</InstallationInfoFilePath>
+  <Version />
+  <Publisher>Non-Microsoft</Publisher>
+  <GeneratedFromAXMetadata>false</GeneratedFromAXMetadata>
+  <Type>ApplicationPackage</Type>
+  <IncludedDeployablePackages />
+  <ServiceModelList />
+  <OtherComponentList />
+  <MetadataModuleRelease>Update38</MetadataModuleRelease>
+  <MetadataModuleList>
+    <string>tcembeddededi.7.0.5778.41503</string>
+  </MetadataModuleList>
+  <MetadataModelList />
+  <PlatformReleaseDisplayName>Update38</PlatformReleaseDisplayName>
+  <PlatformVersion>7.0.5778.41503</PlatformVersion>
+  <IsCompatibleWithSealedRelease>true</IsCompatibleWithSealedRelease>
+  <IsCompatibleWithApp81PlusRelease>true</IsCompatibleWithApp81PlusRelease>
+  <AllComponentList>
+    <ArrayOfString>
+      <string>AX Module</string>
+      <string>tcembeddededi.7.0.5778.41503</string>
+    </ArrayOfString>
+  </AllComponentList>
+</HotfixInstallationInfo>
